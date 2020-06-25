@@ -3,3 +3,5 @@ env/
 index.html
 venv/
 .idea/
+__pycache__/
+.replit
